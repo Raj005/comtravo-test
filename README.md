@@ -1,6 +1,6 @@
 # Comtravo techincal challenge
 
-### I decided to create a microservice architecture in Nodejs using Design principles and patterns like SOLID principles, Dependency Injection (DI), Facade etc.
+#### I decided to create a microservice architecture in Nodejs using Design principles and patterns like SOLID principles, Dependency Injection (DI), Facade etc.
 
 ## How to Run and Test
 
@@ -8,7 +8,7 @@
 - npm run test
 - npm start
 
-### Run the server with `npm start` and then visit `localhost:5000/api/v1/flights` using browser or use any tool like postman to hit this api.
+#### Run the server with `npm start` and then visit `localhost:5000/api/v1/flights` using browser or use any tool like postman to hit this api.
 
 ### Response looks like this
 
