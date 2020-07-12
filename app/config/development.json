@@ -1,0 +1,13 @@
+{
+  "port": 5000,
+  "apiSlug": "/api/v1",
+  "discoveryService": {
+    "auth": {
+      "username": "ct_interviewee",
+      "password": "supersecret"
+    },
+    "timeout": 200,
+    "source1": "https://discovery-stub.comtravo.com/source1",
+    "source2": "https://discovery-stub.comtravo.com/source2"
+  }
+}
